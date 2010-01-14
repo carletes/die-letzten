@@ -26,11 +26,11 @@
                                                     ZU HASELDORF
 */
 -----File: 003.png---\mivo\Quadell\gst\mcbax\puppernutter\-----------------
+
+
+
+
 /*
-
-
-
-
 IM GESPRÄCH
 */
 -----File: 004.png---\mivo\Quadell\gst\mcbax\alisea\-----------------------
@@ -419,7 +419,6 @@ in deren Griff winzige Bilder getrieben sind.
 
 Helena Pawlowna wird Licht befehlen, viel Licht.
 -----File: 016.png---\mivo\rbh\rudi49\mcbax\evelynka\----------------------
-
 
 
 
@@ -912,7 +911,9 @@ Das ist alles.
 
 
 
-· DIE LETZTEN ·[** not sure whether mid dots should be included]
+/*
+DIE LETZTEN
+*/
 -----File: 032.png---\mivo\Be Yourself\rudi49\mcbax\Frau Sma\--------------
 
 
