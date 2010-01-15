@@ -3,7 +3,6 @@
 
 
 
-/*
       DIE LETZTEN
 
    RAINER MARIA RILKE
@@ -13,23 +12,18 @@
       DIE LETZTEN
 
 BERLIN AXEL JUNCKER 1902
-*/
 
 
 
 
-/*
 DEM PRINZEN UND DER PRINZESSIN
         VON SCHÖNAICH-CAROLATH
                   ZU HASELDORF
-*/
 
 
 
 
-/*
 IM GESPRÄCH
-*/
 
 
 Man kann gut denken, dass Bilder im Saale sind: tiefe, träumerische in
@@ -354,9 +348,7 @@ Helena Pawlowna wird Licht befehlen, viel Licht.
 
 
 
-/*
 DER LIEBENDE
-*/
 
 
 Hermann Holzer geht in seiner langen, schmalen Stube auf und ab und
@@ -762,9 +754,7 @@ Das ist alles.
 
 
 
-/*
 DIE LETZTEN
-*/
 
 
 Der Tag wird immer verlegen in der kleinen Mietswohnung, in welcher so
@@ -1864,12 +1854,8 @@ herabhängenden Händen. Und vor ihm steht Frau Malcorn, welk, in Atlas,
 mit Handschuhen. Und sie sehen sich mit fremdem Entsetzen in die toten
 Augen.
 
-/*
 <g>Ende.</g>
-*/
 
-/*
 GEDRUCKT BEI I. S. PREUSS,
 BERLIN S.W., KOMMANDANTENSTR. 14,
 IM NOVEMBER 1901.
-*/
