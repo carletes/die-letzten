@@ -75,7 +75,7 @@ die Prinzessin eine kleine bange Bewegung und will ihnen finden helfen.
 
 Weither kommt eine volle slavische Stimme, um sich zu wundern.
 
-»Sie fragen <g>mich</g>?«
+»Sie fragen =mich=?«
 
 Pause.
 
@@ -97,7 +97,7 @@ als ob man alle mit ihnen teilte. Nicht?« So sagt der Herr aus Wien und
 schliesst die Augen dabei.
 
 Er sieht also nicht, dass Helena Pawlowna lächelt, während sie ergänzt:
-»Sie haben Recht. <g>Eines</g> besonders: dass man nicht <g>hier</g> Kind war, kann
+»Sie haben Recht. =Eines= besonders: dass man nicht =er= Kind war, kann
 man gar nicht begreifen. Denken Sie: oft auf der Gasse oder in Gärten
 geschah mir, ich müsste jemandem winken und ihm erzählen: Hier hab' ich
 immer gespielt als Kind. Oder: hier in diese Kirche bin ich beten
@@ -111,7 +111,7 @@ Da kommt die Stimme Kasimirs traurig näher:
 
 Pause.
 
-Und leise überlegt Graf Saint-Quentin: »<g>Darf</g> man nicht lügen in solchen
+Und leise überlegt Graf Saint-Quentin: »=Darf= man nicht lügen in solchen
 Fällen?«
 
 »Aus Sehnsucht einfach --« bestärkt der Herr aus Wien.
@@ -193,7 +193,7 @@ Aber da sagt Kasimir schon:
 
 »Gerade an ihn denke ich. Und an die grossen Russen. Und an Tetmajer und
 diese feinen jungen Poeten, die das Kranksein so schön machen. Sie
-sehen, ich denke an Viele. Und dabei kommt heraus, dass wir <g>Künste</g>
+sehen, ich denke an Viele. Und dabei kommt heraus, dass wir =Künste=
 haben, keine Kunst. Viele Sehnsüchte und keine Erfüllung. Vielleicht
 ist das bei den Deutschen anders, ich weiss nicht. Aber dann müssen die
 Deutschen sehr glücklich sein --«
@@ -221,7 +221,7 @@ vernimmt man einen Schritt, als ob der Pole irgend ein besonders
 ungefähr:
 
 »Wir haben ja früher davon gesprochen, bitte. Kunst ist Kindheit
-nämlich. Kunst heisst, nicht wissen, dass die Welt schon <g>ist</g> und eine
+nämlich. Kunst heisst, nicht wissen, dass die Welt schon =ist= und eine
 machen. Nicht zerstören, was man vorfindet, sondern einfach nichts
 Fertiges finden. Lauter Möglichkeiten. Lauter Wünsche. Und plötzlich
 Erfüllung sein, Sommer sein, Sonne haben. Ohne dass man darüber spricht,
@@ -232,7 +232,7 @@ des sechsten Tages. Und nicht am tausendsten Tag. Heute noch nicht. Das
 ist aller Grund, den ich gegen ihn habe. Dass er sich ausgeben konnte.
 Dass er fand, dass sein Buch zu Ende sei mit dem Menschen, und nun die
 Feder fortgelegt hat und wartet, wie viel Auflagen es haben wird. Dass
-er kein Künstler war, das ist so traurig. Dass er <g>doch</g> kein Künstler
+er kein Künstler war, das ist so traurig. Dass er =doch= kein Künstler
 war. Darüber möchte man weinen und den Mut verlieren zu Allem --«
 
 Da fällt die silberne Uhr ein, hell, zögernd, mit einem kleinen Zittern
@@ -260,8 +260,8 @@ Worte mit. Wie Kinder, die Wünsche aufsagen sollen, sind sie: beschämt
 und schön.
 
 »Diese Dinge also, Lied und Gedicht und Bild, sind anders als die
-anderen Dinge. Sehen Sie das gütig ein, bitte. Sie <g>sind</g> nicht. Sie
-<g>werden</g> jedesmal wieder. Darum geben sie die Freude, die unendliche.
+anderen Dinge. Sehen Sie das gütig ein, bitte. Sie =sind= nicht. Sie
+=werden= jedesmal wieder. Darum geben sie die Freude, die unendliche.
 Diese Macht. Dieses Bewusstsein von unerschöpflichen Schätzen, das sonst
 von nirgends kommt. Darum heben sie hinauf. Ja, das thun sie. Sie heben
 uns -- hoch -- bis zu Gott.«
@@ -295,7 +295,7 @@ ich höre, -- etwa Das sagen Sie, Helena, nur besser, strahlender, als
 ich es kann: man muss, sagen Sie, dort muss man anfangen, wo Gott
 abliess, wo er müde wurde, dort muss man einsetzen. Wo ist das, Helena,
 bitte? Im Leben ist das, beim Menschen. Nicht bei den Vielen, bei dem
-<g>einen</g> Menschen, der einem entgegenkommt von Ewigkeit. Der Einem alles
+=einen= Menschen, der einem entgegenkommt von Ewigkeit. Der Einem alles
 das bringt, das Andere, was man noch braucht, um nie eine Not zu haben,
 um beginnen zu können sorglos, verschwenderisch; -- denn das darf nicht
 sein, Helena, wie ein flüchtiger Besuch von Mensch zu Mensch. Und die
@@ -1048,7 +1048,7 @@ Da ist auch Marie erschrocken, ohne Fassung. Nur einen Augenblick
 freilich. Dann schüttelt sie's ab. »Sie sind aber auch, Frau Malcorn!
 Immer gleich alles von der schwärzesten Seite sehen.« Sie sieht ein,
 dass man schnell etwas Scherzhaftes sagen muss, um jeden Preis. »Wenn
-<g>Sie</g> nur mal reden müssten, so vor fünf-, sechshundert Menschen im
+=Sie= nur mal reden müssten, so vor fünf-, sechshundert Menschen im
 heissen, dunstigen Saal und zwei, drei Stunden lang ...«
 
 Frau Malcorn wagt sich ins Licht. »Meinen Sie wirklich, Marie?«
@@ -1082,7 +1082,7 @@ jahrhundertelange Entwicklungen hinter sich. Unter ihm sind Feldherren,
 Bischöfe, -- Könige vielleicht sogar. Immer einer auf den Schultern des
 andern. Und ganz zuhöchst: Er, Harald. Und alle leisesten Schwankungen
 dieser breiten Basis sind in ihm sichtbar ...« Dann spricht Marie Holzer
-von sich, ganz anders im Ton, fast grob: »<g>Mein</g> Grossvater war Bauer
+von sich, ganz anders im Ton, fast grob: »=Mein= Grossvater war Bauer
 ....« Und nun vergisst sie alle Ehrfurcht und fährt fort, trotzdem die
 Uhr siebenmal schlägt. Hastig, als ob sie erst froh sein könnte, sobald
 alles gesagt ist.
@@ -1325,14 +1325,14 @@ sich hat. Vielleicht ... Möchtest Du's, Marie?«
 
 »Du irrst Dich, Kind. Gewiss! Du siehst das alles zu licht. Du hast so
 viel Licht in Dir für alles. Ich bin es nicht. -- Ich hätte es sein
-können vielleicht. Ich hätte es -- <g>bleiben</g> können, obwohl ich es noch
+können vielleicht. Ich hätte es -- =bleiben= können, obwohl ich es noch
 nie war. --Es ist zu spät.« Und ganz erregt tritt er auf Marie zu:
 
-»Du sagtest früher, ich habe die Liebe, Marie. Ja, --<g>hab'</g> ich sie denn?
+»Du sagtest früher, ich habe die Liebe, Marie. Ja, --=hab'= ich sie denn?
 Hab' ich sie nicht vergeudet, ausgestreut mit vollen Händen? Ist das
 nicht mein Leben gewesen, sie zu verschwenden, seit zwei, seit drei
 Jahren, bis zu diesem Augenblick? Kann ich über sie verfügen, da
-Hunderte sich daran halten? Und <g>wenn</g> ich sie zurück begehre von ihnen,
+Hunderte sich daran halten? Und =wenn= ich sie zurück begehre von ihnen,
 -- was soll ich thun mit dieser Liebe, die die Spuren von hundert
 krampfhaften Händen trägt, die abgenutzt, alt, welk geworden ist? Und
 das nicht hinter ihrem Sommer etwa. O nein! Ich habe sie gar nicht reif
@@ -1344,7 +1344,7 @@ davon!
 Zeit. Damals hätt' ich noch retten können und -- sparen.
 
 »Ich will Dich nicht anklagen -- nein! Nur >Künstler< darfst Du mich
-nicht nennen. Das ist wie ein Hohn, wenn <g>Du</g> das thust ...« Und da
+nicht nennen. Das ist wie ein Hohn, wenn =Du= das thust ...« Und da
 beginnt er leise zu husten, so dass Frau Malcorns Augen starr und bange
 werden; aber Marie Holzer achtet jetzt nicht darauf. Sie fühlt die
 Verpflichtung zu antworten.
@@ -1353,7 +1353,7 @@ Verpflichtung zu antworten.
 Siege gegangen! Du darfst nicht wankelmütig werden! Du hast gewusst, was
 Du willst. Muss ich Dich daran erinnern?« Sie lässt sich von Haralds
 abwehrender Bewegung nichts befehlen. »Ich danke Dir alles, auch meine
-Zuversicht. <g>Du</g> hast sie mir gegeben. Sie ist mein Besitz. Und wenn Du
+Zuversicht. =Du= hast sie mir gegeben. Sie ist mein Besitz. Und wenn Du
 sie wieder willst, --nicht ohne Kampf!«
 
 Harald fühlt den Husten kommen, und so sagt er nur rasch und hart:
@@ -1419,7 +1419,7 @@ nichts geschehen, scheint es. Wenigstens was Marie erzählt ...«
 
 »Siehst Du, sie können nichts anfangen ohne Dich ...«
 
-»Du Gute. Sie können auch <g>mit</g> mir nichts anfangen. Und vor allem: <g>ich</g>
+»Du Gute. Sie können auch =mit= mir nichts anfangen. Und vor allem: =ich=
 kann nichts mit ihnen anfangen, wirklich.« Und er wendet sich wieder den
 Fenstern zu, als wäre jetzt nichts so wichtig wie dieser helle, bewegte
 Himmel. »Das hab' ich früher alles nicht gesehen. Und es ist doch so
@@ -1651,7 +1651,7 @@ das zu denken. Ich hätte es selbst kaum gekonnt vorher; aber jetzt
 scheint es mir ganz natürlich. Die Kindheit ist ein Land, ganz
 unabhängig von allem. Das einzige Land, in dem es Könige giebt. Warum in
 die Verbannung gehen? Warum nicht älter und reifer werden in diesem
-Lande?... Wozu sich gewöhnen an das, was <g>Andere</g> glauben? Hat das etwa
+Lande?... Wozu sich gewöhnen an das, was =Andere= glauben? Hat das etwa
 mehr Wahrheit, als was man glaubt im ersten starken Kindervertrauen? Ich
 kann mich noch erinnern ... da hatte jedes Ding einen besonderen Sinn,
 und es gab unzählbar viele Dinge. Und keines war mehr im Werte als ein
@@ -1668,7 +1668,7 @@ als könnte man an jedem Dinge sterben ...«
 Dann rasch mit anderer Stimme die Frage: »Es ist nicht zu spät, hast Du
 nicht so gesagt?«
 
-»Es ist <g>nie</g> zu spät, Harald.«
+»Es ist =nie= zu spät, Harald.«
 
 »Nie? Es kann doch einmal sein, wenn ich zum Beispiel .... Sagt denn der
 Doktor auch wirklich die Wahrheit?«
@@ -1854,7 +1854,7 @@ herabhängenden Händen. Und vor ihm steht Frau Malcorn, welk, in Atlas,
 mit Handschuhen. Und sie sehen sich mit fremdem Entsetzen in die toten
 Augen.
 
-<g>Ende.</g>
+=Ende.=
 
 GEDRUCKT BEI I. S. PREUSS,
 BERLIN S.W., KOMMANDANTENSTR. 14,
