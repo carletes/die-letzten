@@ -1,0 +1,20 @@
+Upload notes
+============
+
+Print errors
+------------
+A few print errors have been corrected -- see the Transcriber's Notes in
+the text for the details.
+
+The text contains several nested quotations with the following structure:
+
+    "Hab' Mut, Harald! Du bust ungerecht. Denk! Einmal hast Du gesagt,
+    woertlich: "Ich moechte [..]"
+
+I have not added the missing quotation mark at the end of the sentence.
+
+
+Text versions
+-------------
+I have produced both Latin-1 and UTF-versions. The UTF-version as
+German-style quotation marks. Unitame handles the UTF-version just fine.
