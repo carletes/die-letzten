@@ -17,4 +17,5 @@ I have not added the missing quotation mark at the end of the sentence.
 Text versions
 -------------
 I have produced both Latin-1 and UTF-versions. The UTF-version as
-German-style quotation marks. Unitame handles the UTF-version just fine.
+German-style quotation marks. Unitame handles the UTF-version just fine,
+apart from transforming German-style quotes to English-style.
