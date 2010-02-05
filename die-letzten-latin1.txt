@@ -133,7 +133,7 @@ hat. Glauben Sie, Graf, Sie sind in der Vendée Knabe gewesen und wild
 und ungestüm? Meinen Sie, Herr, das war Wien, was um Ihr erstes Erwachen
 herum war? Und Sie, Herr, dass dieses flache Land, von dem Sie oft
 erzählen, wirklich Hintergrund aller Märchen war, wissen Sie das? Dieses
-Schloss, bitte, und diese Stadt und Ihre Haide da waren das nicht
+Schloss, bitte, und diese Stadt und Ihre Haide da, waren das nicht
 vielmehr die Grenzen jenes Landes, in welchem Sie tief und innig lebten?
 Bitte, hörte Ihr Besitz nicht dort auf, wo das Andere begann? Ging Ihre
 Sonne nicht unter immer, wenn Sie das wirkliche Licht empfanden? Starben
@@ -1874,6 +1874,9 @@ Augen.
   [ Im folgenden werden alle geänderten Textzeilen angeführt, wobei
     jeweils zuerst die Zeile wie im Original, danach die geänderte Zeile
     steht.
+
+    Schloss, bitte, und diese Stadt und Ihre Haide da waren das nicht
+    Schloss, bitte, und diese Stadt und Ihre Haide da, waren das nicht
 
     Du bist doch dabei, Bang?« Und er wartet die Antwort gar nicht ab.
     »Du bist doch dabei, Bang?« Und er wartet die Antwort gar nicht ab.
