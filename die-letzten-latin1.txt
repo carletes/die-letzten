@@ -1871,16 +1871,16 @@ Augen.
 
 
 
-[Im folgenden werden alle geänderten Textzeilen angeführt, wobei
-jeweils zuerst die Zeile wie im Original, danach die geänderte Zeile
-steht.
+  [ Im folgenden werden alle geänderten Textzeilen angeführt, wobei
+    jeweils zuerst die Zeile wie im Original, danach die geänderte Zeile
+    steht.
 
-Du bist doch dabei, Bang?« Und er wartet die Antwort gar nicht ab.
-»Du bist doch dabei, Bang?« Und er wartet die Antwort gar nicht ab.
+    Du bist doch dabei, Bang?« Und er wartet die Antwort gar nicht ab.
+    »Du bist doch dabei, Bang?« Und er wartet die Antwort gar nicht ab.
 
-Harald -- ja, auch Harald.
-Harald -- ja, auch Harald.«
+    Harald -- ja, auch Harald.
+    Harald -- ja, auch Harald.«
 
-keinen Erfolg auf keiner Seite. Ich will einfach: Schönheit ...
-keinen Erfolg auf keiner Seite. Ich will einfach: Schönheit ...«
-]
+    keinen Erfolg auf keiner Seite. Ich will einfach: Schönheit ...
+    keinen Erfolg auf keiner Seite. Ich will einfach: Schönheit ...«
+  ]
